@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently a MSc student in NUS who majors in computer engineering
+- 🌱 I’m currently studying machine learning and deep learning algorithms
+- 🤔 I’m the one whose undergradute courses are not relavent to ML/DL area and now trying my best to learn
 <!--
 **xqcl0/xqcl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
